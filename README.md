@@ -1,4 +1,4 @@
-# 🚗 特斯拉智能座舱 Agent (RAG + Tool Calling)
+# 🚗智能座舱 Agent (RAG + Tool Calling)
 
 基于 LangChain 和 Gradio 开发的智能座舱助手，具备**本地知识库检索**和**实时硬件数据感知**能力。
 
